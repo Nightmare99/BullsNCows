@@ -1,0 +1,15 @@
+{
+  "name": "bullsncows",
+  "version": "1.0.0",
+  "description": "A discord bot to host word games.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "author": "Nightmare99",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
