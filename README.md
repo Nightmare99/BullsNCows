@@ -25,4 +25,4 @@
  - ```/bnc <GUESS>``` - Replace ```<GUESS>``` with the word you wanna guess.
 
  ## Special credits
- (Litscape.com)[https://www.litscape.com/words/length/4_letters/4_letter_words.html] for the four-letter words.
+ [Litscape.com](https://www.litscape.com/words/length/4_letters/4_letter_words.html) for the four-letter words.
